@@ -1,0 +1,5 @@
+Project Structure -> Artifacts -> Jar -> From modules with dependencies
+Build -> Build Artifact
+Файл будет в директории out -> artifacts 
+
+Запуск java -jar myFileName.jar
